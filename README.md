@@ -1,2 +1,2 @@
 # Holy-Child
-I new to programming
+I am new to programming
